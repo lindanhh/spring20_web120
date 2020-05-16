@@ -30,11 +30,92 @@
 </header>
         
 <!-- START LEFT COL -->
-<section>
-
-<h1>AIA</h1>
+<div class='wrapper'>
+<table class="customer">
+    <tbody>
+        <tr>
+            <td>Client's Name:</td>
+            <td>Linda Danh - Owner/Final Decision Maker</td>
+        </tr>
+        <tr>
+            <td>Business Name:</td>
+            <td>KoolKicks</td>
+        </tr>
+        <tr>
+            <td>Resdesign or New Website:</td>
+            <td>Brand New Website</td>
+        </tr>
+        <tr>
+            <Td>Type of Website:</Td>
+            <td>Community, Informational, Shopping</td>
+        </tr>
+        <tr>
+            <td>Client's Goals:</td>
+            <td>A community where we can openly talk about anything sneakers with some purchases of shoes</td>
+        </tbody>
+</table>
     
+<table class="aia">
+    <tbody>
+        <tr>
+            <th>Audience</th>
+            <th>Issues/Needs</th>
+            <th>Approach</th>
+        </tr>
+        <tr>
+            <td>Fellow sneaker heads:
+                <br>The vast amount about the community of "sneaker heads" will come here to share likes, dislikes and anything related to shoes. They can talk about what's hot about the new shoes that will be releasing in stores. Their most used platform will be mobile devices to access this website.
+            </td>
+            <td>
+                <ul>
+                    <li>Website needs to be mobile friendly</li>
+                    <li>Small images</li>
+                    <li>Gallery</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Create a mobile friendly website using minimum and maxium widths to manuiplate viewports particulary to mobile users.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Possible Customers:
+            <br>These people will be on the website to possibly purchase some shoes that will be show cased. Community of people posting their shoes online for others to purchase.
+            </td>
+            <td><ul>
+                    <li>Cart checkout capability</li>
+                    <li>Safety for entering personal information like credit card numbers</li>
+                    
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Create a safe and secure check out process with personal information</li>
+                    <li>Have image upload capability to website</li>
+                </ul>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>People learning about shoes:
+            <br>Informational history of shoes. Information about new and old collections. Locations on where to purchase new releases. This group will be mostly mobile users and some desktops.
+            </td>
+            <td>
+                <ul>
+                    <li>Navigation</li>
+                    <li>Needs organized website to view all shoes quickly</li>
+                </ul>
+            </td>
+            <td><ul>
+                <li>Create a user friendly navigation around website</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>    
+</table>
     
+</div> 
     
     
 <!-- START Footer -->

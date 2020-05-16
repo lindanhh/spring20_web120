@@ -70,6 +70,37 @@ footer {
     text-align: center;
 }
 
+div.wrapper {
+    font-family: sans-serif;
+    
+}
+table.customer {
+    max-width: 75%;
+    border: 1px solid #B1565B;
+    background-color: #fff6f6;
+    padding: 3px;
+    margin: 10px auto 0 auto
+    
+}
+table.aia {
+    max-width: 65%;
+    border: 1px solid #B1565B;
+    background-color: #fff6f6;
+    margin: 10px auto 0 auto;
+    
+}
+th{
+    background-color: #CB7272;
+    color: white;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 10px;
+}
 /* START RESPONSIVE STYLES */
 
 /* DESKTOP */
