@@ -28,18 +28,20 @@ switch(THIS_PAGE){
     case 'index.php':
         $title = "Linda's WEB120 Title Page";
         $logo = "fa-home";
+        $logo_color = ' style="color:#0f0"';
         $PageID = "Welcome";
     break;
         
     case 'aia.php':
-        $title = "Sara's Final Project Audience, Issues and Approach Research";
+        $title = "Linda's AIA Page";
         $logo = "fa-universal-access";
         $logo_color = ' style="color:#00f"';
+        $PageID = "AIA";
     break;
 
         
     case 'contactme.php':
-        $title = "Linda's WEB120 Title Page";
+        $title = "Linda's WEB120 Contact Me";
         $logo = "fa-pencil-square-o";
         $logo_color = ' style="color:#0f0"';
         $PageID = "Contact Linda";
@@ -48,6 +50,7 @@ switch(THIS_PAGE){
     default:
         $title = THIS_PAGE;
         $logo = "fa-home";
+        $logo_color = ' style="color:#0f0"';
         $PageID = "Welcome";
 }
 
