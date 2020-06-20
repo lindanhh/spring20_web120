@@ -1,0 +1,16 @@
+<?php include "includes/header.php"?>
+    
+<p>What an incredible time to be alive when technology’s growth is infinite, right? While it’s amazing that we’re able to get information from our own fingertips within seconds, keeping up with technology is never ending. As junior developers and designers, we’re learning the best strategies to create a responsive website while keeping data integrity and also on top of that, we have to figure out which method of design is what has the clients best interests at heart. When it comes to responsive websites and mobile applications, you must understand the purpose of the product. A few positive points I’d like to make of a responsive website that has over a mobile application is that it’s definitely less cost effective and is available for all users. “A responsive site has a special design based on CSS media queries. It allows the website's content to fit into any type of screen, both a 17' laptop or a 3’ phone.” Given that the design is so versatile, any user who is on a desktop versus a user who has a tablet or phone, the usability is still there no matter your type of device. While making the responsive website versatile to whatever the screen size is, the cost is much less than making different applications for each operating system. Creating multiple applications for each type of mobile phone or tablet can get very expensive. Although the fundamentals of building a website came from creating a responsive website, more and more users are turning to mobile app development to maintain the amount of usage without sacrificing true content and purpose. “A number of studies by Oracle and MobileSmith have proved that over 60% of users prefer mobile apps over mobi-sites to purchase online.“ The top two advantages mobile applications have over responsive is that it’s faster and that it can be tailored to have personalized content to the users preferences. By having a mobile application, the app is able to store the data locally on the device, which results in data retrieval in a jiffy. The download time of a data is noticeably faster than responsive websites due to the data needing to be fetched from web servers and also into account, the network speed and packet sizes. While each method has its pros and cons, it is your responsibility to figure out the main purpose of your clients intentions for the company and then create something that speaks to that. You will have to decide if a higher performance and functionality presence is more important than the product development price.</p>
+ 
+</section>
+<!-- END LEFT COL -->
+
+<!-- START RIGHT COL -->
+<aside>
+ <h3>Citations </h3>
+    <p>1. King, Viktor. “Responsive Website vs Mobile App: Comparison.” Thinkmobiles, thinkmobiles.com/blog/responsive-website-vs-mobile-app/.</p>
+    <p>2. Technologies, KNOWARTH. “9 Advantages of Mobile Apps over Responsive ECommerce Websites.” Medium, Medium, 9 Feb. 2018, medium.com/@KNOWARTH/9-advantages-of-mobile-apps-over-responsive-ecommerce-websites-6aed1e6db0d8.</p>
+</aside>
+<!-- END RIGHT COL -->
+<?php include "includes/footer.php"?>
+<!-- START Footer -->
